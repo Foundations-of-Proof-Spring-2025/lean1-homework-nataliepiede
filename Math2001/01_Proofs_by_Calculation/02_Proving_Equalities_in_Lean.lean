@@ -49,6 +49,3 @@ d * (a * f - b * e) = d * a * f - d * b * e := by ring
   _ = (b * c) * F - b * (c * f) := by rw [h1, h2]
   _ = 0 := by ring
 done
-
-
-  done
